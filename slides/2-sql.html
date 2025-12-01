@@ -85,7 +85,7 @@
           <img data-src="assets/2-4-customers.png" style="max-width: 70%; margin: 0;">
         </section>
         <section>
-          <h2>Request -> Response</h2>
+          <h2>Request → Response</h2>
           <img data-src="assets/2-5-request-response.jpg" style="max-width: 70%; margin: 0;">
         </section>
       </section>
@@ -240,8 +240,18 @@
               <!-- .element: class="fragment" -->
           </textarea>
         </section>
-        <section>
-          <h2>TODO: Green / Red Arrow</h2>
+        <section data-markdown>
+          <textarea data-template>
+            ## Spalten / Zeilen
+            * <span style="color: green; font-weight: bold;">SELECT</span> bestimmt die <strong>Spalten</strong>, <span style="color: red; font-weight: bold;">WHERE</span> die <strong>Zeilen</strong>: <!-- .element: class="fragment" -->
+            <pre>
+              <code class="sql" data-noescape>SELECT spalte1, spalte2, ...
+              FROM tabellenname
+              WHERE bedingung
+              </code>
+            </pre>
+            <img data-src="assets/2-5-red-green.png" style="max-width: 90%; margin: 0;">
+          </textarea>
         </section>
         <section data-markdown>
           <textarea data-template>
@@ -469,6 +479,27 @@
                 ON p.SupplierID=s.SupplierID
               ```
               <!-- .element: class="fragment" -->
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ## <code class="hljs-keyword">LEFT JOIN</code> Bedeutung
+            <code class="hljs-keyword">LEFT JOIN</code> bedeutet, dass alle Zeilen der linken Tabelle im Ergebnis enthalten sind, Zeilen der rechten Tabelle aber nur, wenn es einen passenden Eintrag gibt.
+            <img data-src="assets/2-10-left-join.png" style="max-width: 100%; margin: 0;">
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ## <code class="hljs-keyword">INNER JOIN</code> Bedeutung
+            <code class="hljs-keyword">INNER JOIN</code> bedeutet, dass ausschließlich, die Zeilen der linken und rechten Tabelle im Ergebnis enthalten sind, die übereinstimmende Werte in den verbundenen Spalten haben.
+            <img data-src="assets/2-11-inner-join.png" style="max-width: 100%; margin: 0;">
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ## <code class="hljs-keyword">OUTER JOIN</code> Bedeutung
+            <code class="hljs-keyword">OUTER JOIN</code> bedeutet, dass alle Zeilen der linken und rechten Tabelle im Ergebnis enthalten sind und übereinstimmende Werte im Ergebnis in einer Zeile zusammengeführt werden.
+            <img data-src="assets/2-12-outer-join.png" style="max-width: 100%; margin: 0;">
           </textarea>
         </section>
       </section>
