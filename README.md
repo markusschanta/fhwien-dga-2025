@@ -11,4 +11,4 @@ Dieses Repo enthält die Materialien zur Lehrveranstaltung __Datengewinnung und 
  2. __Datenbanken und SQL__
     * [Slides (HTML)](https://markusschanta.github.io/fhwien-dga-2025/slides/2-sql.html)
     * [Slides (PDF)](https://markusschanta.github.io/fhwien-dga-2025/slides/2-sql.pdf)
-    * [Notebook](https://markusschanta.github.io/fhwien-dga-2025/notebooks/2-sql.ipynb)
+    * <a href="(https://markusschanta.github.io/fhwien-dga-2025/notebooks/2-sql.ipynb" download>Notebook</a>
