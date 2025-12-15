@@ -75,7 +75,7 @@
 #calendar {
   table-layout: fixed;
   border-collapse: collapse;
-  font-size: 40%;
+  font-size: 35%;
 }
 
 #calendar td, #calendar th {
@@ -103,6 +103,14 @@
     #c4b8d6 10px,
     #c4b8d6 20px
  );
+}
+
+#calendar td.red {
+  background-color: #ff9999;
+}
+
+#calendar td.yellow {
+  background-color: #ffff99;
 }
 
 #calendar td.top-bold {

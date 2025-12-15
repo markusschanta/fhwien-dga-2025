@@ -105,7 +105,7 @@
         <td><div>&nbsp;</div><div>08.01.</div></td>
         <td><div>&nbsp;</div><div>09.01.</div></td>
         <td class="grey"><div>&nbsp;</div><div>10.01.</div></td>
-        <td class="grey"><div>&nbsp;</div><div>11.01.</div></td>
+        <td class="yellow"><div><strong>G1</strong></div><div>11.01.</div></td>
     </tr>
     <tr>
         <td><div>&nbsp;</div><div>12.01.</div></td>
@@ -120,18 +120,27 @@
         <td><div>&nbsp;</div><div>19.01.</div></td>
         <td class="dga"><div><strong>DGA</strong></div><div>20.01.</div></td>
         <td><div>&nbsp;</div><div>21.01.</div></td>
-        <td class="dga-striped"><div><strong>DGA</strong></div><div>22.01.</div></td>
-        <td><div>&nbsp;</div><div>23.01.</div></td>
+        <td class="red"><div><strong>AG</strong></div><div>22.01.</div></td>
+        <td class="red"><div><strong>AG</strong></div><div>23.01.</div></td>
         <td class="grey"><div>&nbsp;</div><div>24.01.</div></td>
         <td class="grey bottom-bold"><div>&nbsp;</div><div>25.01.</div></td>
     </tr>
     <tr>
         <td class="bottom-bold"><div><strong>Pr&uuml;fung</strong></div><div>26.01.</div></td>
-        <td class="bottom-bold"><div>&nbsp;</div><div>27.01.</div></td>
-        <td class="bottom-bold"><div>&nbsp;</div><div>28.01.</div></td>
+        <td class="yellow bottom-bold"><div><strong>G2</strong></div><div>27.01.</div></td>
+        <td class="red bottom-bold"><div><strong>AG</strong></div><div>28.01.</div></td>
         <td class="bottom-bold"><div>&nbsp;</div><div>29.01.</div></td>
-        <td class="bottom-bold"><div>&nbsp;</div><div>30.01.</div></td>
+        <td class="red bottom-bold"><div><strong>AG</strong></div><div>30.01.</div></td>
         <td class="grey bottom-bold right-bold"><div>&nbsp;</div><div>31.01.</div></td>
         <td class="grey"><div>&nbsp;</div><div>01.02.</div></td>
+    </tr>
+    <tr>
+        <td class=""><div>&nbsp;</div><div>02.02.</div></td>
+        <td class=""><div>&nbsp;</div><div>03.02.</div></td>
+        <td class="red"><div><strong>AG</strong></div><div>04.02.</div></td>
+        <td class=""><div>&nbsp;</div><div>05.02.</div></td>
+        <td class="red"><div><strong>AG</strong></div><div>06.02.</div></td>
+        <td class="grey"><div>&nbsp;</div><div>07.02.</div></td>
+        <td class="grey"><div>&nbsp;</div><div>08.02.</div></td>
     </tr>
 </table>
