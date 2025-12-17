@@ -16,3 +16,7 @@ Dieses Repo enthält die Materialien zur Lehrveranstaltung __Datengewinnung und 
     * [Slides (HTML)](https://markusschanta.github.io/fhwien-dga-2025/slides/3-python.html)
     * [Slides (PDF)](https://markusschanta.github.io/fhwien-dga-2025/slides/3-python.pdf)
     * <a href="(https://markusschanta.github.io/fhwien-dga-2025/notebooks/3-python.ipynb" download>Notebook</a>
+ 4. __Pandas__
+    * [Slides (HTML)](https://markusschanta.github.io/fhwien-dga-2025/slides/4-pandas.html)
+    * [Slides (PDF)](https://markusschanta.github.io/fhwien-dga-2025/slides/4-pandas.pdf)
+    * <a href="(https://markusschanta.github.io/fhwien-dga-2025/notebooks/4-pandas.ipynb" download>Notebook</a>
